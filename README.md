@@ -1,1 +1,1 @@
-# Model to Predict the attrition of a company
+# Model to Predict the attrition rate of a company
